@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\matheus\Desktop\Framework-C-\Injection\Keylogger\x64\Debug\Keylogger.exe</FullPath>
+      <FullPath>C:\Keylogger\x64\Debug\Keylogger.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
